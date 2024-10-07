@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = bitane.mickael@gmail.com
+	name = mickael bitane
